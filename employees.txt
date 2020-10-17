@@ -1,0 +1,12 @@
+11,Joe,Programmer,60000,90,12
+13,Kevin,Programmer,40000,80,12
+7,Gina,HR Employee,40000,70,5
+12,Ivan,Project Manager,50000,60,10
+10,Holly,Head of Technology,46000,50,1,Technology
+8,Carol,Secretary,60000,40,1
+2,Dave,CFO,150000,30,1,Finance
+5,Ellen,Head of HR,70000,20,1,Human Resources
+1,Alice,CEO,250000,20,,Some Corp.
+3,Bob,Assistant,80000,20,1
+9,Fred,Hiring Manager,60000,10,5
+15,Linda,Assistant,30000,30,11
