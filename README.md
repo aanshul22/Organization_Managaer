@@ -6,4 +6,4 @@ Running the **organization_ui.py** runs the project.
 
 Here is an exmaple of how the UI looks
 
-[UI Example](example_ui.png)
+[UI Example](Example_UI.png)
